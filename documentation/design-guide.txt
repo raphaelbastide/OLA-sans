@@ -1,0 +1,2 @@
+6 glyphs are modified from the original Metaflop Modulator design: O,o,L,l,A,a.
+Keep those glyphs modified and extend the characters based on other character’s design.

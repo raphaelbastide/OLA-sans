@@ -1,0 +1,36 @@
+// Type Design Boilerplate V0.1
+// https://github.com/raphaelbastide/Unified-Font-Repository/
+{
+    "typeface": {
+        "name": "OLA sans",
+        "authors": [
+            "Raphaël Bastide"
+        ],
+        "licence": "OFL",
+        "unicode-ranges": "Basic Latin",
+        "tags": [
+            "generative",
+            "grotesque",
+            "modified",
+            "libre",
+            "open source"
+        ],
+        "repository-URL": "https://github.com/raphaelbastide/OLA-sans",
+        "download-URL": "https://github.com/raphaelbastide/OLA-sans/zipball/master",
+        "softwares": [
+            "Metafont",
+            "Metaflop",
+            "Fontforge"
+        ],
+        "similar-fonts": [
+            "Bespoke",
+            "Dauphine"
+        ],
+        "sample-text": "Outils Libres Alternatifs - abcdefghijklmnopqrstuvwxyz",
+        "font": {
+            "name": "OLA SANS",
+            "weight": "book",
+            "creation-date": "2014"
+        }
+    }
+}
